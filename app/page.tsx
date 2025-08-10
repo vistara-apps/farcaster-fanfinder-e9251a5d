@@ -1,4 +1,3 @@
-
 'use client';
 
 import { useEffect, useState, useCallback, useMemo } from 'react';
@@ -29,13 +28,14 @@ import { TabNavigation } from './components/TabNavigation';
 import { Header } from './components/Header';
 import { LoadingState } from './components/LoadingState';
 import { mockTopEngagers, mockCastMetrics, mockAudienceData } from './lib/mockData';
+import { Creator } from './lib/types';
 
 export default function FanfinderApp() {
   const { setFrameReady, isFrameReady, context } = useMiniKit();
   const [frameAdded, setFrameAdded] = useState(false);
   const [activeTab, setActiveTab] = useState('engagers');
   const [isLoading, setIsLoading] = useState(true);
-  const [userData, setUserData] = useState(null);
+  const [userData, setUserData] = useState<Creator | null>(null);
   
   const addFrame = useAddFrame();
   const openUrl = useOpenUrl();
