@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "Farcaster Fanfinder is a Base Mini App built with Zara.",
     "iconUrl": "$NEXT_PUBLIC_URL/logo.png",
-    "homeUrl": "https://e9251a5d-2dc9-4a94-92a9-e4a04cb0a662.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "e9251a5d2dc94a9492a9e4a04cb0a662-9j55-ccvbe8t7d-vistara.vercel.app",
+    "splashImageUrl": "e9251a5d2dc94a9492a9e4a04cb0a662-9j55-ccvbe8t7d-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "e9251a5d2dc94a9492a9e4a04cb0a662-9j55-ccvbe8t7d-vistara.vercel.app/image.png",
     "tagline": "Farcaster Fanfinder",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "e9251a5d2dc94a9492a9e4a04cb0a662-9j55-ccvbe8t7d-vistara.vercel.app/screenshot.png",
+      "e9251a5d2dc94a9492a9e4a04cb0a662-9j55-ccvbe8t7d-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "mini app",
       "onchainkit"
     ],
-    "webhookUrl": "https://e9251a5d-2dc9-4a94-92a9-e4a04cb0a662.vistara.dev/api/webhook"
+    "webhookUrl": "e9251a5d2dc94a9492a9e4a04cb0a662-9j55-ccvbe8t7d-vistara.vercel.app/api/webhook"
   }
 }
