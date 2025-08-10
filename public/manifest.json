@@ -1,0 +1,14 @@
+{
+  "name": "Farcaster Fanfinder",
+  "description": "Farcaster Fanfinder is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://e9251a5d-2dc9-4a94-92a9-e4a04cb0a662.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "Farcaster Fanfinder",
+      "description": "Farcaster Fanfinder is a Base Mini App built with Zara.",
+      "url": "https://e9251a5d-2dc9-4a94-92a9-e4a04cb0a662.vistara.dev",
+      "icon": "$NEXT_PUBLIC_URL/logo.png"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Farcaster Fanfinder",
+    "subtitle": "Built with Zara",
+    "description": "Farcaster Fanfinder is a Base Mini App built with Zara.",
+    "iconUrl": "$NEXT_PUBLIC_URL/logo.png",
+    "homeUrl": "https://e9251a5d-2dc9-4a94-92a9-e4a04cb0a662.vistara.dev",
+    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "tagline": "Farcaster Fanfinder",
+    "screenshotUrls": [
+      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
+      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "mini app",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://e9251a5d-2dc9-4a94-92a9-e4a04cb0a662.vistara.dev/api/webhook"
+  }
+}
